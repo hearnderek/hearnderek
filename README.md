@@ -6,24 +6,18 @@ ______  ______  ______  ______   _   __    __   __ ______    ___   ______  __   
 | | | | |  __|  |    /  |  __|  |    \     |  _  | |  __|  |  _  | |    /  | . ' |
 | |/ /  | |___  | |\ \  | |___  | |\  \    | | | | | |___  | | | | | |\ \  | |\  |
 |___/   \____/  \_| \_| \____/  \_| \_/    \_| |_/ \____/  \_| |_/ \_| \_| \_| \_/
-
-                ______   _____   _____  __   __  _   _  ______
-                |  __ \ |_   _| |_   _| | | | | | | | | |  __ \
-                | |  \/   | |     | |   | |_| | | | | | | |_/ /
-                | | __    | |     | |   |  _  | | | | | |  __ \
-                | |_\ \  _| |_    | |   | | | | | |_| | | |_/ /
-                \_____/  \___/    \_/   \_| |_/  \___/  \____/
-
-             ______  ______   _____  ______   _____   _      ______
-             | ___ \ | ___ \ | ___ | |  ___| |_   _| | |     |  ___|
-             | |_/ / | |_/ / | | | | | |_      | |   | |     | |__
-             |  __/  |    /  | | | | |  _|     | |   | |     |  __|
-             | |     | |\ \  \ \_/ / | |      _| |_  | |____ | |___
-             \_|     \_| \_|  \___/  \_|      \___/  \_____/ \____/
 ----------------------------------------------------------------------------------
 
 ```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hearnderek&hide=javascript,html,css&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://www.codewars.com/users/DerekHearn/badges/large">
+    <img alt="Tests Passing" src="https://www.codewars.com/users/DerekHearn/badges/large" />
+  </a>  
+</p>
 
-[![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=hearnderek&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hearnderek&hide=javascript,html,css&show_icons=true&theme=radical&layout=compact">
+    <img alt="Tests Passing" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hearnderek&hide=javascript,html,css&show_icons=true&theme=radical&layout=compact" />
+  </a>  
+</p>
