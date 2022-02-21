@@ -23,3 +23,7 @@ ______  ______  ______  ______   _   __    __   __ ______    ___   ______  __   
 ----------------------------------------------------------------------------------
 
 ```
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hearnderek&hide=javascript,html,css&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=hearnderek&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
